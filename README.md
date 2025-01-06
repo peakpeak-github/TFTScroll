@@ -5,7 +5,7 @@ Currently scrolling only works in portrait mode
 Note: Encoding of this file should be Windows-1252 (8 bit) to display extended characters correctly
 
 Successfully built with:
-Arduino IDE 2.0
+Arduino IDE 2
 Visual Studio Code with PlatformIO
 Visual Studio with VisualMicro
 
