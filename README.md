@@ -1,5 +1,8 @@
 
 Sample code to demonstrate non-repeating dynamic scrolling text on a TFT display.
+Optionally have fixed areas without scrolling at top and/or bottom of the display.
+
+See scroll.jpg
 
 Tested with ESP32 and TFT 1.8" SPI ST7735 128 x 160 display.
 
