@@ -1,6 +1,7 @@
 
 Sample code to demonstrate non-repeating dynamic scrolling text on a TFT display.
 Optionally have fixed areas without scrolling at top and/or bottom of the display.
+Handles ASCII extended characters for åäöéü and more.
 
 See scroll.jpg
 
