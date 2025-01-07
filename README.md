@@ -1,7 +1,7 @@
 
 Sample code to demonstrate non-repeating dynamic scrolling text on a TFT display.
 Optionally have fixed areas without scrolling at top and/or bottom of the display.
-Uses display hardware scrolling.
+Uses the display's built-in hardware scrolling.
 Handles ASCII extended characters (=ANSI) for åäöéü and more.
 
 See scroll.jpg and https://youtube.com/shorts/lmKyIJF2Dw8?feature=share
