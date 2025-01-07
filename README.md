@@ -4,7 +4,7 @@ Optionally have fixed areas without scrolling at top and/or bottom of the displa
 Uses display hardware scrolling.
 Handles ASCII extended characters (=ANSI) for åäöéü and more.
 
-See scroll.jpg och https://youtube.com/shorts/lmKyIJF2Dw8?feature=share
+See scroll.jpg and https://youtube.com/shorts/lmKyIJF2Dw8?feature=share
 
 Tested with ESP32 and TFT 1.8" SPI ST7735 128 x 160 display.
 
