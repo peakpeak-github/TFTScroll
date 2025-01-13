@@ -70,7 +70,9 @@
 #if ((ORIENTATION == CONNECTOR_BOTTOM) || (ORIENTATION == CONNECTOR_TOP)) // Portrait orientations
 #define SCREENWIDTH 128
 #define SCREENHEIGHT 160
-#else
+#endif
+
+#if ((ORIENTATION == CONNECTOR_LEFT) || (ORIENTATION == CONNECTOR_RIGHT)) // Landscape orientations
 #define SCREENWIDTH 160
 #define SCREENHEIGHT 128
 #endif
